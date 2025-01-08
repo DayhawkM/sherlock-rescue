@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Buddy",
+    "age": "2 years",
+    "description": "A playful Labrador looking for an active family.",
+    "imageUrl": "/images/buddy.jpg",
+    "tag": "Friendly",
+    "breed": "Labrador Retriever",
+    "adoptionFee": 150
+  },
+  {
+    "name": "Luna",
+    "age": "3 years",
+    "description": "A gentle and loving Greyhound who enjoys relaxing indoors.",
+    "imageUrl": "/images/luna.jpg",
+    "tag": "Calm",
+    "breed": "Greyhound",
+    "adoptionFee": 120
+  }
+]
