@@ -16,5 +16,59 @@
     "tag": "Calm",
     "breed": "Greyhound",
     "adoptionFee": 120
+  },
+  {
+    "name": "Max",
+    "age": "1 year",
+    "description": "An energetic Border Collie who loves puzzles and games.",
+    "imageUrl": "/images/max.jpg",
+    "tag": "Smart",
+    "breed": "Border Collie",
+    "adoptionFee": 180
+  },
+  {
+    "name": "Bella",
+    "age": "4 years",
+    "description": "A sweet Dachshund who loves belly rubs and cuddles.",
+    "imageUrl": "/images/bella.jpg",
+    "tag": "Adorable",
+    "breed": "Dachshund",
+    "adoptionFee": 140
+  },
+  {
+    "name": "Charlie",
+    "age": "3 months",
+    "description": "A curious Beagle puppy with a love for exploring.",
+    "imageUrl": "/images/charlie.jpg",
+    "tag": "Curious",
+    "breed": "Beagle",
+    "adoptionFee": 200
+  },
+  {
+    "name": "Daisy",
+    "age": "5 years",
+    "description": "A senior Golden Retriever with a gentle heart.",
+    "imageUrl": "/images/daisy.jpg",
+    "tag": "Loving",
+    "breed": "Golden Retriever",
+    "adoptionFee": 100
+  },
+  {
+    "name": "Rocky",
+    "age": "2 years",
+    "description": "A strong and loyal German Shepherd who loves to work.",
+    "imageUrl": "/images/rocky.jpg",
+    "tag": "Loyal",
+    "breed": "German Shepherd",
+    "adoptionFee": 170
+  },
+  {
+    "name": "Molly",
+    "age": "6 months",
+    "description": "A playful and energetic Jack Russell Terrier puppy.",
+    "imageUrl": "/images/molly.jpg",
+    "tag": "Playful",
+    "breed": "Jack Russell Terrier",
+    "adoptionFee": 160
   }
 ]
