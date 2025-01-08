@@ -2,7 +2,7 @@
   {
     "name": "Buddy",
     "age": "2 years",
-    "description": "A playful Labrador looking for an active family.",
+    "description": "A playful Labrador looking for an active family. Gets on with cats.",
     "imageUrl": "/images/buddy.jpg",
     "tag": "Friendly",
     "breed": "Labrador Retriever",
@@ -47,7 +47,7 @@
   {
     "name": "Daisy",
     "age": "5 years",
-    "description": "A senior Golden Retriever with a gentle heart.",
+    "description": "A senior Golden Retriever with a gentle heart. Well trained.",
     "imageUrl": "/images/daisy.jpg",
     "tag": "Loving",
     "breed": "Golden Retriever",
